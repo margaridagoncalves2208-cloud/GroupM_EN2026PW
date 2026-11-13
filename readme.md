@@ -1,10 +1,20 @@
 # GroupM_EN2026PW
 
 ## Questão de Estudo
-Que fatores determinam o tamanho das lapas?
+Que fatores abióticos influenciam o comprimento das lapas em pontões?
 
 ## Descrição
 Este repositório foi criado no âmbito da disciplina de Ecologia Numérica e destina-se a armazenar todo o material do trabalho prático (desde os dados recolhidos no campo até aos ficheiros pedidos pelo Professor). 
+
+O nosso trabalho tem como objetivo explorar a seguinte questão: **Que fatores abióticos influenciam o comprimento das lapas em pontões?**
+
+Para tal, recolhemos dados em três praias distintas (variável explicativa categórica): Praia das Avencas (Parede), Praia da Conceição (Cascais) e Praia do Dragão (Costa da Caparica).
+
+Em cada praia, registámos três variáveis: a distância das lapas ao mar¹ (variável explicativa contínua), a presença ou ausência de cavidade² (variável explicativa binária) e o comprimento da lapa (variável de resposta).
+
+¹Para garantir a comparabilidade das medições entre as diferentes praias, definimos como ponto 0 uma linha imaginária perpendicular ao pontão, localizada na primeira lapa mais distante do mar. A partir desta referência, estabelecemos transetos de 50 em 50 cm até aos 10 metros. Em cada transeto, selecionámos aleatoriamente duas lapas, utilizando números gerados pelo ChatGPT (de 1 a 10). No total, obtivemos 42 amostras por praia, assumindo cada lapa (incluindo as do mesmo transeto) como uma observação independente.
+
+²Considerou-se que uma lapa se encontrava dentro de uma cavidade quando esta apresentava uma profundidade mínima de 3 cm e proporcionava proteção contra a ação direta das ondas.
 
 ## Autoras
 Margarida Gonçalves - 64714; 
